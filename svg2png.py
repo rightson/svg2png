@@ -1,3 +1,4 @@
+#!venv/Scripts/python3.exe
 import os
 import sys
 from pathlib import Path
@@ -40,4 +41,3 @@ else:
         svg_string2png(file_path)
     except FileNotFoundError:
         print(f'Error: File {file_path} not found. Please check the file path.')
-
