@@ -1,0 +1,14 @@
+altgraph==0.17.3
+cairocffi==1.5.1
+CairoSVG==2.7.0
+cffi==1.15.1
+cssselect2==0.7.0
+defusedxml==0.7.1
+pefile==2023.2.7
+Pillow==9.5.0
+pycparser==2.21
+pyinstaller==5.11.0
+pyinstaller-hooks-contrib==2023.3
+pywin32-ctypes==0.2.0
+tinycss2==1.2.1
+webencodings==0.5.1
