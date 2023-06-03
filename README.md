@@ -1,5 +1,5 @@
 # svg2png
-Simple SVG to PNG local tool
+Naive SVG to PNG local tool
 
 ## Usage:
 
